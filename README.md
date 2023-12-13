@@ -16,7 +16,7 @@ extract all folder and put in c:\\ drive   //don't put in any folder of c:\\ dri
 
 
 Step 2:
-install msys64 \n
+install msys64 
 add this path in environment variable: C:\msys64\ucrt64\bin
 
 step 3:
